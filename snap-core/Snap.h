@@ -30,6 +30,8 @@
 #include "gstat.h"           // graph statistics
 #include "centr.h"           // centrality measures
 #include "cmty.h"            // community detection algorithms
+#include "flow.h"            // network flow algorithms
+#include "coreper.h"         // core-periphery algorithms
 
 // graph generators
 #include "ggen.h"            // graph generators (preferential attachment, small-world, ...)
